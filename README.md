@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://i.pinimg.com/474x/e0/ab/f7/e0abf78d8a8eba5fa8ae9cb7b9b1c410.jpg" alt="!">
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghost-h3x&label=Profile%20views&color=0e75b6&style=flat" alt="ghost-h3x" /> </p>
 
 - 🌱 I’m currently learning **C**
