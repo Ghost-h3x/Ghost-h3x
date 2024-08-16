@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://i.pinimg.com/474x/e0/ab/f7/e0abf78d8a8eba5fa8ae9cb7b9b1c410.jpg](https://media1.tenor.com/m/KBe_nw4IL2QAAAAC/matrix-code.gif)" alt="!">
+  <img src="https://media1.tenor.com/m/KBe_nw4IL2QAAAAC/matrix-code.gif" alt="!">
 </p>
 
 - 🌱 I’m currently learning **C**
