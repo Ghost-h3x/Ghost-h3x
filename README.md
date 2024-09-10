@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/abXNa80mB5UAAAAC/creepy-eye-creepy.gif" alt="!">
+  <img src="https://cdn.discordapp.com/attachments/1233881531404124202/1282879641136398378/84df51b4bb34f6fb7f02c5d85fd9c960.gif?ex=66e0f645&is=66dfa4c5&hm=434b0454ae99bc2699ab6c54ac5ac7546fb04bb0da01fa384de4cd3e7f114aba&" alt="!">
 </p>
 
 - 🌱 I’m currently learning **C**
